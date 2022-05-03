@@ -1,3 +1,5 @@
+### CODECLONEDETECTION
+
 The project aims at finding code repeats or repeated strings within the codebase.
 
 To core datastructures used are 
