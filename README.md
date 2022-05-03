@@ -1,6 +1,20 @@
-The code in the repository aims at finding code repeats within the codebase.
+The project aims at finding code repeats or repeated strings within the codebase.
 
-The core algorithms implemented are 
+To core datastructures used are 
 
-1. Barenbaum Algorithm
-2. Beller Algorithm
+<ol>
+  <li>
+    Suffix Arrays
+  </li>
+</ol>
+
+The core algorithms used are 
+
+<ol>
+  <li>
+    Barenbaum Algorithm
+  </li>
+  <li>
+    Beller Algorithm
+  </li>
+</ol>
